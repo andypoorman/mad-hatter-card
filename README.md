@@ -4,6 +4,8 @@ An electronic playing card built into a Mad Hatter costume using a 4.2-inch tri-
 
 The goal is to create a convincing playing card attached to the outside of a Mad Hatter top hat, with all the electronics hidden inside the crown.
 
+This was originally created for a Halloween-themed wedding.
+
 ## Preview
 
 ![Mad Hatter electronic playing card mounted on a top hat](images/IMG_2130.jpeg)
@@ -60,7 +62,7 @@ Because the display is bistable, it can continue showing the card even after pow
 
 ## Arduino Setup
 
-The firmware is C++ for the Arduino IDE. The controller is an **RP2040**, not an ESP32.
+The firmware is C++ for the Arduino IDE.
 
 1. In Arduino IDE, open **Preferences/Settings** and add this to **Additional Boards Manager URLs**:
 
@@ -121,17 +123,13 @@ The basic assembly process is:
 
 **Mounting:** The display should be removable without permanently damaging the hat or stressing the ribbon cable.
 
-## Future Improvements
+## Future Improvements?
 
 - Multiple selectable playing card designs
 - Randomized card artwork
 - Button-triggered display changes
 - Wireless image updates over Wi-Fi or Bluetooth
 - Deep sleep for improved battery life
-
-## Project Status
-
-🚧 Work in progress — hardware assembly, firmware development, and costume integration.
 
 ## License
 
