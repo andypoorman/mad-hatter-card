@@ -6,9 +6,19 @@ The goal is to create a convincing playing card attached to the outside of a Mad
 
 ## Preview
 
-![Mad Hatter electronic playing card](images/mad-hatter-card.jpg)
+![Mad Hatter electronic playing card mounted on a top hat](images/IMG_2130.jpeg)
 
 *The electronic playing card mounted on the Mad Hatter hat.*
+
+### Display gallery
+
+| White Rabbit card | Mad Hatter 10/6 card |
+| --- | --- |
+| ![White Rabbit card shown on the e-paper display](images/IMG_2069.jpeg) | ![Mad Hatter 10/6 card shown on the e-paper display](images/IMG_2070.jpeg) |
+
+| Wedding card | Queen of Hearts card |
+| --- | --- |
+| ![Wedding card shown on the e-paper display](images/IMG_2071.jpeg) | ![Queen of Hearts card artwork](images/queen-of-hearts-card.png) |
 
 ## Overview
 
