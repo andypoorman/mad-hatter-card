@@ -53,7 +53,7 @@ The display is mounted on the outside of the hat. Its ribbon cable runs behind t
 
 ## How It Works
 
-1. Card artwork is converted into a format supported by the e-paper display.
+1. Card artwork is converted into a format supported by the e-paper display. (see tools/convert_epaper_image.py)
 2. The artwork is stored in the microcontroller's firmware.
 3. When powered on, the microcontroller initializes the display and draws the card.
 4. The e-paper panel retains the image without continuous refreshes.
